@@ -249,16 +249,16 @@ img{
 .home__social{
   display: grid;
   grid-template-columns: max-content;
-  rpw-gap: 1rem;
+  row-gap: 1rem;
 }
 
 .home__social-icon{
   font-size: 1.25rem;
-  color:var(--first-color);
+  color: var(--first-color);
 }
 
 .home__social-icon:hover{
-  color:var(--first-color-alt);
+  color: var(--first-color-alt);
 }
 
 .home__blob{
