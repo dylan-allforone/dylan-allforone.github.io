@@ -1025,7 +1025,9 @@ img{
 
   }
   .nav__list{
-    column-gap: 1rem;
+    column-gap: 0;
+    padding-left: 1fr;
+    padding-right: 1fr;
   }
 
   .home__content{
