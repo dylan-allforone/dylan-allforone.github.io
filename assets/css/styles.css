@@ -1022,12 +1022,6 @@ img{
 
   .nav__menu{
     padding: 2rem .25rem 4rem;
-
-  }
-  .nav__list{
-    column-gap: 0;
-    padding-left: 1fr;
-    padding-right: 1fr;
   }
 
   .home__content{
@@ -1086,6 +1080,11 @@ img{
   .home__img{
     order: 1;
     justify-self: center;
+  }
+
+  .nav__item{
+    padding-left: 2fr;
+    padding-right: 2fr;
   }
 
   .about__container,
