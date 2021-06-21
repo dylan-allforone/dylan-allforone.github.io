@@ -1082,11 +1082,6 @@ img{
     justify-self: center;
   }
 
-  .nav__item{
-    padding-left: 2fr;
-    padding-right: 2fr;
-  }
-
   .about__container,
   .skills__container,
   .portfolio__content,
